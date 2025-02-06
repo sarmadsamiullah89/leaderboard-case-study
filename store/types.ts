@@ -1,0 +1,4 @@
+export const SET_USERS = "SET_USERS";
+export const SET_FILTERED_USERS = "SET_FILTERED_USERS";
+export const SET_SORTING = "SET_SORTING";
+export const SET_SEARCH_INPUT = "SET_SEARCH_INPUT";

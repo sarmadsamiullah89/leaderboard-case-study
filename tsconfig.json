@@ -1,0 +1,12 @@
+{
+  "extends": "@react-native/typescript-config/tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "screens/*": ["screens/*"],
+      "store/*": ["store/*"],
+      "utils/*": ["utils/*"]
+    }
+  },
+  "exclude": ["node_modules"]
+}
